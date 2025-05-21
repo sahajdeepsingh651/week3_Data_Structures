@@ -1,4 +1,4 @@
-/*
+
 import java.util.Scanner;
 public class linbin {
     public static void main(String[] args){
@@ -541,4 +541,3 @@ public class linbin {
             System.out.println("Target " + target + " not found.");
     }
 }
-*/
